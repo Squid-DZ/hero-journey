@@ -1,0 +1,14 @@
+.nav {
+  display: flex;
+  gap: 12px;
+  margin: 12px 0;
+}
+
+.nav .active {
+  font-weight: 700;
+  // text-decoration: underline;
+}
+
+.page {
+  padding: 8px 0;
+}
